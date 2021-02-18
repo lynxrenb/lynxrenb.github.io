@@ -6,6 +6,7 @@ import GitHub from '../icons/GitHub';
 import LinkedIn from '../icons/LinkedIn';
 import Resume from '../icons/Resume';
 import Email from '../icons/Email';
+import Blog from '../icons/Blog';
 
 const DATA = [
     {
@@ -31,6 +32,12 @@ const DATA = [
         aria: "Send me an email",
         icon: <Email />,
         label: "Email",
+    },
+    {
+        href: "https://lynxrenb.github.io/blog",
+        aria: "Vist my blog",
+        icon: <Blog />,
+        label: "Blog",
     }
 ];
 
