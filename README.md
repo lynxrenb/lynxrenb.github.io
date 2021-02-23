@@ -4,4 +4,4 @@
 
 Desktop | Mobile
 :------:|:-------:
-![Desktop](https://raw.githubusercontent.com/lynxrenb/files/files/desktop.png) | ![Mobile](https://raw.githubusercontent.com/lynxrenb/files/files/mobile.jpg)
+![Desktop](https://raw.githubusercontent.com/lynxrenb/files/master/desktop.png) | ![Mobile](https://raw.githubusercontent.com/lynxrenb/files/master/mobile.jpg)
