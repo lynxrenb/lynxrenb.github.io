@@ -22,7 +22,7 @@ const DATA = [
         label: "LinkedIn",
     },
     {
-        href: "https://raw.githubusercontent.com/lynxrenb/files/master/Resume-Saurav-Jha.pdf",
+        href: "https://raw.githubusercontent.com/lynxrenb/files/master/Resume.pdf",
         aria: "Download my resume",
         icon: <Resume />,
         label: "Resume",
